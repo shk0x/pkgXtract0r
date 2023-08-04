@@ -1,0 +1,12 @@
+Uuid: 51ad3deeec1c42bbb043d248edd417f4
+ExtensionType: 2
+Name: Package Extractor (Passive)
+RepoName: pkgxtract0r
+ScreenVersion: 1.0.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: shk0x
+ShortDescription: Burp Extension for passively scanning JavaScript files for endpoint links.
+EntryPoint: pkgXtract0r.py
+BuildCommand: 
